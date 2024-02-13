@@ -10,6 +10,7 @@
 		EE0BC4AF2B737333000CA2E2 /* BodyTrakingARView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE0BC4AE2B737333000CA2E2 /* BodyTrakingARView.swift */; };
 		EE99570E2B7AED7600CD2954 /* TextARViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE99570D2B7AED7600CD2954 /* TextARViewController.swift */; };
 		EE9957102B7AEDA300CD2954 /* TextARViewContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE99570F2B7AEDA300CD2954 /* TextARViewContainer.swift */; };
+		EE9957132B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE9957122B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift */; };
 		EEE451E62B7066E300813F51 /* PracticeRealityKitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE451E52B7066E300813F51 /* PracticeRealityKitApp.swift */; };
 		EEE451E82B7066E300813F51 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE451E72B7066E300813F51 /* ContentView.swift */; };
 		EEE451EA2B7066E400813F51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EEE451E92B7066E400813F51 /* Assets.xcassets */; };
@@ -42,6 +43,7 @@
 		EE0BC4AE2B737333000CA2E2 /* BodyTrakingARView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BodyTrakingARView.swift; sourceTree = "<group>"; };
 		EE99570D2B7AED7600CD2954 /* TextARViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextARViewController.swift; sourceTree = "<group>"; };
 		EE99570F2B7AEDA300CD2954 /* TextARViewContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextARViewContainer.swift; sourceTree = "<group>"; };
+		EE9957122B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChangeMeshAndColorSystem.swift; sourceTree = "<group>"; };
 		EEE451E22B7066E300813F51 /* PracticeRealityKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PracticeRealityKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EEE451E52B7066E300813F51 /* PracticeRealityKitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PracticeRealityKitApp.swift; sourceTree = "<group>"; };
 		EEE451E72B7066E300813F51 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -94,6 +96,7 @@
 		EE9957112B7AF34F00CD2954 /* System */ = {
 			isa = PBXGroup;
 			children = (
+				EE9957122B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift */,
 			);
 			path = System;
 			sourceTree = "<group>";
@@ -291,6 +294,7 @@
 				EE99570E2B7AED7600CD2954 /* TextARViewController.swift in Sources */,
 				EEE452122B706C7400813F51 /* RealityPracticeView.swift in Sources */,
 				EEE451E82B7066E300813F51 /* ContentView.swift in Sources */,
+				EE9957132B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift in Sources */,
 				EEE451E62B7066E300813F51 /* PracticeRealityKitApp.swift in Sources */,
 				EE9957102B7AEDA300CD2954 /* TextARViewContainer.swift in Sources */,
 				EE0BC4AF2B737333000CA2E2 /* BodyTrakingARView.swift in Sources */,

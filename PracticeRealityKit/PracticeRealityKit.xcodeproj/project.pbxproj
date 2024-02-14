@@ -86,9 +86,8 @@
 		EE99570C2B7AECC400CD2954 /* ECSText */ = {
 			isa = PBXGroup;
 			children = (
+				EE9957142B7AF8AE00CD2954 /* View */,
 				EE9957112B7AF34F00CD2954 /* System */,
-				EE99570D2B7AED7600CD2954 /* TextARViewController.swift */,
-				EE99570F2B7AEDA300CD2954 /* TextARViewContainer.swift */,
 			);
 			path = ECSText;
 			sourceTree = "<group>";
@@ -99,6 +98,15 @@
 				EE9957122B7AF3FC00CD2954 /* ChangeMeshAndColorSystem.swift */,
 			);
 			path = System;
+			sourceTree = "<group>";
+		};
+		EE9957142B7AF8AE00CD2954 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EE99570D2B7AED7600CD2954 /* TextARViewController.swift */,
+				EE99570F2B7AEDA300CD2954 /* TextARViewContainer.swift */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 		EEE451D92B7066E300813F51 = {
